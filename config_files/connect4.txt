@@ -1,0 +1,4 @@
+num_rows : 6
+num_cols : 7
+num_pieces_to_win : 4
+blank_char : *
